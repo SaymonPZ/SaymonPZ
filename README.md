@@ -5,4 +5,6 @@
 [![linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saymon_e.i/)
 [![linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saymon.espindola@gmail.com)
 
-### Amante da tecnologia e pela programação. Aguardem atualizações aqui.
+### Amante da tecnologia e da programação.
+
+### Atualizações em processo...
